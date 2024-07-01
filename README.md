@@ -7,7 +7,7 @@ The dataset used for this project is the Concrete Compressive Strength Dataset, 
 
 ## Project Structure
 
-- **Notebook**: `concrete_strength_prediction.ipynb`
+- **Notebook**: `Concrete strength regression.ipynb`
   - Contains Python code for building, training, and evaluating neural networks for concrete strength prediction.
   - Demonstrates different model configurations and evaluations.
 
